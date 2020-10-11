@@ -7,5 +7,5 @@ MAINTAINER darachm
 %help
 
     This is just the ncbi/blast docker container, coverted to Singularity 
-    container. Yep.
+    container. Yep. Just a wrapper.
 
